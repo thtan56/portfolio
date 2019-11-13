@@ -1,0 +1,8 @@
+{
+  "organisers":[
+    { "id": 2001, "name": "NBA", "image": "images/NBA2.jpg", "link": "/game/NBA", "description": "National Basketball Association (US)"},
+    { "id": 2002, "name": "NBL", "image": "images/NBL.png", "link": "/game/NBL", "description": "National Basketball League (AUS)"},
+    { "id": 2003, "name": "AFL", "image": "images/afl2.png", "link": "/game/AFL", "description": "Australian Football League (AUS)"},
+    { "id": 2004, "name": "NFL", "image": "images/nfl2.png", "link": "/game/NFL", "description": "National Football League (US)"}
+  ]
+}

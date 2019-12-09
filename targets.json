@@ -1,8 +1,0 @@
-{
-  "targets":[
-    { "id": 1000, "desc": "Normal, no filters" ,"mean": 0.0, "sd": 0.0, "sharpe": 0.0, "mdd":   0.0, "score1": 0, "rating": 0 },
-    { "id": 1001, "desc": "Mean(>0.5);Sd(<3)"  ,"mean": 0.1, "sd": 1.0, "sharpe": 1.0, "mdd": -10.0, "score1": 2, "rating": 1 },
-    { "id": 1002, "desc": "sh(>2)"             ,"mean": 0.3, "sd": 2.0, "sharpe": 1.5, "mdd": -20.0, "score1": 2, "rating": 2 },
-    { "id": 1003, "desc": "mdd-min-max length" ,"mean": 0.5, "sd": 3.0, "sharpe": 2.0, "mdd": -30.0, "score1": 2, "rating": 3 },
-    { "id": 1004, "desc": "mdd-max drawdown"   ,"mean": 1.0, "sd": 4.0, "sharpe": 2.5, "mdd": -40.0, "score1": 2, "rating": 4 }] 
-}
